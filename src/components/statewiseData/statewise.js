@@ -33,7 +33,7 @@ const Statewise = () => {
                             <td> Confirmed </td>
                             <td> Recovered </td>
                             <td> Deaths </td>
-                            <td> Actice </td>
+                            <td> Active </td>
                             <td> LastUpdate </td>
                         </tr>
                     </thead>
