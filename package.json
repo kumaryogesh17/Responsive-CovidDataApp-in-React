@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://data.covid19india.org/data.json",
-  "homepage": ".",
+  "homepage": "https://kumaryogesh17.github.io/Responsive-CovidDataApp-in-React/",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@testing-library/jest-dom": "^5.14.1",
