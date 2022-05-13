@@ -2,7 +2,7 @@
   "name": "covid-portal-react-app",
   "version": "0.1.0",
   "private": true,
-  "proxy":"https://data.covid19india.org/data.json",
+  "proxy":"https://covid-portal-react-app.herokuapp.com/",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@testing-library/jest-dom": "^5.14.1",
