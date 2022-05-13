@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "covid-portal-react-app",
   "version": "0.1.0",
   "private": true,
   "proxy":"https://data.covid19india.org/data.json",
