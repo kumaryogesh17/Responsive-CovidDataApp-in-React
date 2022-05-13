@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://data.covid19india.org/data.json",
-  "homepage": "http://kumaryogesh17.github.io/covid-portal-react-app",
+  "homepage": ".",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@testing-library/jest-dom": "^5.14.1",
